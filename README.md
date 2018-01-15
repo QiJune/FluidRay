@@ -8,5 +8,5 @@ Usage:
 ```
 pip install paddlepaddle
 pip install ray
-python test_ray_example.py
+python mnist_distributed_training.py
 ```
